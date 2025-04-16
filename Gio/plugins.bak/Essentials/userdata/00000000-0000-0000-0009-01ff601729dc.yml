@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 145.85.234.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736505291996
+  login: 1736503646395
+money: '0'
+last-account-name: .minnieheks
+lastlocation:
+  world: 4e9273d7-75c4-4f9f-9237-e1d1242472f6
+  world-name: world_nether
+  x: -93.69054
+  y: 51.0
+  z: 138.69999
+  yaw: -79.08493041992188
+  pitch: 14.272125244140625
+logoutlocation:
+  world: 4e9273d7-75c4-4f9f-9237-e1d1242472f6
+  world-name: world_nether
+  x: -39.840416
+  y: 53.0
+  z: 52.512856
+  yaw: 81.94635009765625
+  pitch: 24.793014526367188

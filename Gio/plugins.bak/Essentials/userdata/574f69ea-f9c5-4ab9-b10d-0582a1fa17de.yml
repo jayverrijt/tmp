@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.231.24.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736452296645
+  login: 1736452138340
+money: '0'
+last-account-name: minieheksjelol
+logoutlocation:
+  world: 8eac7ef1-6d0f-4cb5-9e30-2b3e704c6858
+  world-name: spawn
+  x: 1.716829294511026
+  y: -60.0
+  z: 0.08150282212161095
+  yaw: 90.1328125
+  pitch: 11.550024032592773

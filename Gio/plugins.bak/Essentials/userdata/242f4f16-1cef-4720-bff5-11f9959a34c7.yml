@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.99.219.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736374691617
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736456146493
+  login: 1736453148340
+money: '0'
+last-account-name: mCasperc
+lastlocation:
+  world: 4e9273d7-75c4-4f9f-9237-e1d1242472f6
+  world-name: world_nether
+  x: 73.38145417259885
+  y: 81.5
+  z: 3.9644050462588436
+  yaw: 84.89996337890625
+  pitch: 7.499942302703857
+logoutlocation:
+  world: 9eeaec29-8aa1-4934-a4ce-4768b05f6dac
+  world-name: world
+  x: 587.0781259641632
+  y: 66.0
+  z: -169.55228924017453
+  yaw: -138.8999786376953
+  pitch: 25.79998779296875

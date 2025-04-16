@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.231.24.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738848688793
+  login: 1738848606794
+money: '0'
+logoutlocation:
+  world: 9eeaec29-8aa1-4934-a4ce-4768b05f6dac
+  world-name: world
+  x: 570.4553
+  y: 67.0
+  z: -154.23161
+  yaw: -68.77867126464844
+  pitch: 8.236404418945312
+last-account-name: .jayverrijt8280

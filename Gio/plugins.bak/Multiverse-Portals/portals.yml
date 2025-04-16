@@ -1,0 +1,41 @@
+portals:
+  og:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: true
+    handlerscript: ''
+    owner: Jay_V0
+    location: -2.0,-60.0,3.0:1.0,-58.0,3.0
+    world: spawn
+    destination: p:ogtospawn
+  ogtospawn:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: true
+    handlerscript: ''
+    owner: Jay_V0
+    location: -51.0,63.0,150.0:-48.0,68.0,150.0
+    world: world
+    destination: p:og
+  newtospawn:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: true
+    handlerscript: ''
+    owner: Jay_V0
+    location: 30.0,74.0,-64.0:33.0,78.0,-64.0
+    world: newworld
+    destination: p:new
+  new:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: true
+    handlerscript: ''
+    owner: Jay_V0
+    location: -2.0,-60.0,-4.0:1.0,-57.0,-4.0
+    world: spawn
+    destination: p:newtospawn
